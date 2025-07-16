@@ -1,6 +1,7 @@
 
 
-I am an M.S. candidate in Software Engineering at Shandong University. My research centers on multimodal feature matching and large multimodal models, with particular emphasis on vision-language alignment and multimodal reasoning.  
+I’m an M.S. student in Software Engineering at Shandong University, having completed my B.S. in Data Science & Big Data Technology here as well. I am fortunate to be advised by Prof. Xiankai Lu at Shandong University. My research interests lie in multimodal feature matching and the alignment of large-scale vision–language models.
+
 
 
 #### Email  
@@ -17,4 +18,4 @@ lifangkai0105@163.com
 
 
 #### Research Interests  
-Multimodal feature matching, vision-language models, multimodal reasoning
+Multimodal feature matching, vision-language models
