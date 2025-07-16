@@ -4,7 +4,8 @@
 
 # Fangkai Li的个人主页
 
+请访问[我的主页](https://https://li-fangkai.github.io/)
 
-我的个人主页基于 [Sen Li 的学术主页模板](https://github.com/senli1073/senli1073.github.io) 进行，谢谢。  
+基于 [Sen Li 的学术主页模板](https://github.com/senli1073/senli1073.github.io) 搭建，谢谢。  
 
 ###
