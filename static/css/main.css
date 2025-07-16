@@ -110,7 +110,7 @@ section .main-body{
 }
 
 .pub-img {
-    width: 600px;           /* 设置图片宽度 */
+    width: 200px;           /* 设置图片宽度 */
     float: right;           /* 图片右浮动 */
     margin-left: 15px;      /* 文字与图片间距 */
     margin-bottom: 10px;    /* 条目与条目间距 */
