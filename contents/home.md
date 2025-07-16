@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+
 
 I am an M.S. candidate in Software Engineering at Shandong University. My research centers on multimodal feature matching and large multimodal models, with particular emphasis on vision-language alignment and multimodal reasoning.  
 
