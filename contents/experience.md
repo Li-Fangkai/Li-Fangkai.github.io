@@ -1,21 +1,11 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Algorithm Engineer Intern**  
+**March 2025 – July 2025 | Hikvision Research Institute （Hangzhou）**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+- Built and optimized the multimodal foundation model v1.5. Automated evaluation of 30M interleaved docs from OBELICS, MMC4, and in-house corpora. 
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Designed a Qwen2.5VL-7B–based metric that quantifies image-text complementarity via next-token likelihood gain, cutting computation by 85 % and boosting screening accuracy by 30 %. 
 
----
+- Engineered a FAISS-based retrieval pipeline to synthesize 32-domain QA pairs enriched with structured figures, then orchestrated multi-node vLLM inference to scale generation. Conducted Megatron-LM distributed SFT on 7 B / 32 B models, raising MMMU benchmark scores.
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
