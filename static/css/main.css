@@ -110,22 +110,17 @@ section .main-body{
 }
 
 .pub-img {
-    width: 300px;
-    display: block; /* 改为块级元素 */
-    margin: 10px 0; /* 统一上下边距 */
-    border-radius: 4px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 200px;           /* 设置图片宽度 */
+    display: block;         /* 图片独占一行 */
+    margin-top: 10px;       /* 图片与上方文字的间距 */
+    margin-bottom: 10px;    /* 图片与下方条目的间距 */
+    border-radius: 4px;     /* 圆角边框 */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 阴影效果 */
 }
 
-@media (min-width: 769px) {
+@media (max-width: 768px) {
     .pub-img {
-        float: left;
-        margin-left: 15px;
-        margin-bottom: 10px;
+        width: 100%;        /* 小屏幕上占满宽度 */
+        margin: 10px 0;     /* 调整间距 */
     }
-}
-
-/* 清除浮动 */
-li {
-    overflow: auto;
 }
