@@ -4,7 +4,7 @@
   <img src="static/assets/img/cviu.jpg" class="pub-img"> 
 
 - **2025-04**  
-  One paper obout *VLM enhanced video temporal grounding* is accepted to **ICME 2025**[CCF-B]! 
+  One paper about *VLM enhanced video temporal grounding* is accepted to **ICME 2025**[CCF-B]! 
 
   <img src="static/assets/img/icme.JPG" class="pub-img"> 
 

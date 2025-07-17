@@ -110,7 +110,7 @@ section .main-body{
 }
 
 .pub-img {
-    width: 200px;           /* 设置图片宽度 */
+    width: 500px;           /* 设置图片宽度 */
     display: block;         /* 图片独占一行 */
     margin-top: 10px;       /* 图片与上方文字的间距 */
     margin-bottom: 10px;    /* 图片与下方条目的间距 */
