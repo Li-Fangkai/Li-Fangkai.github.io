@@ -110,20 +110,22 @@ section .main-body{
 }
 
 .pub-img {
-    width: 200px;           /* 设置图片宽度 */
-    float: right;           /* 图片右浮动 */
-    margin-left: 15px;      /* 文字与图片间距 */
-    margin-bottom: 10px;    /* 条目与条目间距 */
-    border-radius: 4px;      /* 圆角边框 */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 阴影效果 */
-  }
-  
+    width: 200px;
+    display: block; /* 改为块级元素 */
+    margin: 10px 0; /* 统一上下边距 */
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
-  @media (max-width: 768px) {
+@media (min-width: 769px) {
     .pub-img {
-      width: 100%;          /* 小屏幕上占满宽度 */
-      float: none;          /* 取消浮动 */
-      margin: 10px 0;       /* 调整间距 */
+        float: right;
+        margin-left: 15px;
+        margin-bottom: 10px;
     }
-  }
+}
 
+/* 清除浮动 */
+li {
+    overflow: auto;
+}
