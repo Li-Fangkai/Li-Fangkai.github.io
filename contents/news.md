@@ -6,9 +6,9 @@
 - **2025-04**  
   One paper obout *VLM enhanced video temporal grounding* is accepted to **ICME 2025**[CCF-B]! 
 
-  <img src="static/assets/img/cviu.jpg" class="pub-img"> 
+  <img src="static/assets/img/icme.JPG" class="pub-img"> 
 
 - **2025-03**  
   One paper about *Refering video object segmentation* is accepted to **CVPR 2025**[CCF-A]!
-  
-  <img src="static/assets/img/cviu.jpg" class="pub-img">
+
+  <img src="static/assets/img/cvpr.JPG" class="pub-img">
